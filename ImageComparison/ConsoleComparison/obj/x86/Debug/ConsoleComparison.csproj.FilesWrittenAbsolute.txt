@@ -1,0 +1,7 @@
+/Users/teddy/Desktop/ImageComparisonSolution_1.6/ImageComparison/ConsoleComparison/obj/x86/Debug/.NETFramework,Version=v4.0,Profile=Client.AssemblyAttribute.cs
+/Users/teddy/Desktop/ImageComparisonSolution_1.6/ImageComparison/ConsoleComparison/bin/Debug/ConsoleImageComparison.exe.mdb
+/Users/teddy/Desktop/ImageComparisonSolution_1.6/ImageComparison/ConsoleComparison/bin/Debug/ConsoleImageComparison.exe
+/Users/teddy/Desktop/ImageComparisonSolution_1.6/ImageComparison/ConsoleComparison/obj/x86/Debug/ConsoleImageComparison.exe
+/Users/teddy/Desktop/ImageComparisonSolution_1.6/ImageComparison/ConsoleComparison/obj/x86/Debug/ConsoleImageComparison.exe.mdb
+/Users/teddy/Desktop/ImageComparisonSolution_1.6/ImageComparison/ConsoleComparison/bin/Debug/XnaFan.ImageComparison.dll
+/Users/teddy/Desktop/ImageComparisonSolution_1.6/ImageComparison/ConsoleComparison/bin/Debug/XnaFan.ImageComparison.dll.mdb

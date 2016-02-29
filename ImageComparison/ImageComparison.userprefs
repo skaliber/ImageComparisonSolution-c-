@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="ImageComparisonWpfGui/ImageComparisonWpfGui.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ImageComparison/ComInterop/ComImageTool.cs">
+    <Files>
+      <File FileName="ImageComparison/PathGrayscaleTupleComparer.cs" Line="1" Column="1" />
+      <File FileName="ImageComparison/ImageTool.cs" Line="1" Column="1" />
+      <File FileName="ImageComparison/ComInterop/_ImageTool.cs" Line="1" Column="1" />
+      <File FileName="ImageComparison/ComInterop/ComImageTool.cs" Line="10" Column="36" />
+      <File FileName="ConsoleComparison/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
